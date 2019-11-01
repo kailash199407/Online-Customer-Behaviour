@@ -1,4 +1,7 @@
 # Online-Customer-Behaviour
+
+---Hi, This is Kailash and I'm adding a code change to this python file.
+
 A case study to analyse the Online buying behavior of Customers in USA
 
 -Performed detailed EDA to understand the dataset and clean the data
